@@ -2,7 +2,7 @@
 
 This is an example project on how to use Firebase image to text Machine Learning.
 
-For a functioning app check this repo - 
+For a functioning app check this repo - https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
 
 # Apache License 2.0
 
