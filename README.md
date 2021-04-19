@@ -5,7 +5,9 @@ This is an example project on how to use Firebase image to text Machine Learning
 # Apache License 2.0
 
    Apache License
+   
    Version 2.0, January 2004
+   
    http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
